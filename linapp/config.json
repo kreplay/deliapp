@@ -158,13 +158,13 @@
   },
 
       {
-    "title":"JTBC",
+    "title":"TV5",
     "drawable":"ic_tv",
-    "submenu":"Streams TV",
+    "submenu":"TV Regional",
     "iap":false,
     "tabs":[
       {
-        "title":"JTBC",
+        "title":"TV5",
         "provider":"stream",
         "arguments":[
           "http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8"
@@ -173,31 +173,31 @@
     ]
   },
     {
-    "title":"MBC",
+    "title":"TV Centro",
     "drawable":"ic_tv",
-    "submenu":"Streams TV",
+    "submenu":"TV Regional",
     "iap":false,
     "tabs":[
       {
-        "title":"MBC",
+        "title":"TV Centro",
         "provider":"stream",
         "arguments":[
-          "http://198.144.156.93:9083/live/CA42-live1/PJ/Yr/PJYrrds4bTe69nKCwA_MAQ==/live.m3u8"
+          "http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8"
         ]
       }
     ]
   },
     {
-    "title":"Mnet",
+    "title":"TV Maule",
     "drawable":"ic_tv",
-    "submenu":"Streams TV",
+    "submenu":"TV Regional",
     "iap":false,
     "tabs":[
       {
-        "title":"Opción 1",
+        "title":"TV Maule",
         "provider":"stream",
         "arguments":[
-          "http://199.21.149.41:9083/live/CA42-live1/Vp/Ob/VpObAKeinniCi6LuFRmkLA==/live.m3u8"
+          "http://videostreaming.cl:8080/live/tvmaule.mp4/playlist.m3u8"
         ]
       }
     ]

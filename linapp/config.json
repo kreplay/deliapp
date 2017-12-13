@@ -106,7 +106,7 @@
         "title":"Radio",
         "provider":"radio",
         "arguments":[
-          ""
+          "http://s3.medionline.cl:9964"
         ]
       }
     ]

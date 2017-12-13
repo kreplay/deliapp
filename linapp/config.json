@@ -14,6 +14,21 @@
       }
     ]
   },
+            {
+    "title":"Buena Nueva",
+    "drawable":"ic_cam",
+    "submenu":"Noticias",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Buena Nueva",
+        "provider":"rss",
+        "arguments":[
+          "http://feeds.feedburner.com/RadioBuenaNueva"
+        ]
+      }
+     ]
+    },
     {
     "title":"El Heraldo",
     "drawable":"ic_notas",
@@ -30,16 +45,47 @@
      ]
     },
       {
-    "title":"Buena Nueva",
-    "drawable":"ic_cam",
+    "title":"Linares en Linea",
+    "drawable":"ic_notas",
     "submenu":"Noticias",
     "iap":false,
     "tabs":[
       {
-        "title":"Buena Nueva",
+        "title":"Linares en Linea",
         "provider":"rss",
         "arguments":[
-          "http://feeds.feedburner.com/RadioBuenaNueva"
+          "http://feeds.feedburner.com/LinaresEnLnea"
+        ]
+      }
+     ]
+    },
+  
+    {
+    "title":"Paloma",
+    "drawable":"ic_radio1",
+    "submenu":"Radios",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Paloma",
+        "provider":"radio",
+        "arguments":[
+          "http://radio1.us.mediastre.am/paloma.aac"
+        ]
+      }
+    ]
+  },
+    {
+    "title":"Radio Ancoa",
+    "drawable":"ic_rumores1",
+    "submenu":"Noticias",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Radio Ancoa",
+        "provider":"rss",
+        "arguments":[
+          "http://feeds.feedburner.com/RadioAncoa"
         ]
       }
      ]
@@ -59,25 +105,10 @@
       }
      ]
     },
-  {
-    "title":"TV5",
-    "drawable":"ic_rumores1",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"TV5",
-        "provider":"rss",
-        "arguments":[
-          "http://feeds.feedburner.com/tv5/noticias"
-        ]
-      }
-     ]
-    },
         {
-    "title":"Bio Bio Maule",
+    "title":"Radio Bio Bio [Maule]",
     "drawable":"ic_sitioweb",
-    "submenu":"",
+    "submenu":"Noticias",
     "iap":false,
     "tabs":[
       {
@@ -89,21 +120,7 @@
       }
     ]
   },
-   {
-    "title":"Paloma",
-    "drawable":"ic_radio1",
-    "submenu":"Radios",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Paloma",
-        "provider":"radio",
-        "arguments":[
-          "http://radio1.us.mediastre.am/paloma.aac"
-        ]
-      }
-    ]
-  },
+ 
    {
     "title":"Buena Nueva",
     "drawable":"ic_radio1",

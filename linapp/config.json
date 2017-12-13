@@ -1,19 +1,12 @@
 [
   {
-    "title":"Noticias",
+    "title":"Recientes",
     "drawable":"ic_news",
-    "submenu":"",
+    "submenu":"Noticias",
     "iap":false,
     "tabs":[
       {
-        "title":"Destacadas",
-        "provider":"rss",
-        "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Slider?alt=rss"
-        ]
-      },
-      {
-        "title":"Más recientes",
+        "title":"Recientes",
         "provider":"rss",
         "arguments":[
           "http://kpopreplay.blogspot.com/feeds/posts/default/-/Noticias?alt=rss"
@@ -22,67 +15,67 @@
     ]
   },
     {
-    "title":"Editorial",
+    "title":"El Heraldo",
     "drawable":"ic_notas",
-    "submenu":"",
+    "submenu":"Noticias",
     "iap":false,
     "tabs":[
       {
-        "title":"Editorial",
+        "title":"El Heraldo",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Editorial?alt=rss"
+          "http://feeds.feedburner.com/DiarioElHeraldoLinaresMauleChile"
         ]
       }
      ]
     },
       {
-    "title":"Galería de fotos",
+    "title":"Buena Nueva",
     "drawable":"ic_cam",
-    "submenu":"",
+    "submenu":"Noticias",
     "iap":false,
     "tabs":[
       {
-        "title":"Galería de fotos",
+        "title":"Buena Nueva",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Sesión%20de%20fotos?alt=rss"
+          "http://feeds.feedburner.com/RadioBuenaNueva"
         ]
       }
      ]
     },
   {
-      "title":"Moda",
+      "title":"Vivimos la noticia",
     "drawable":"ic_vestido",
-    "submenu":"",
+    "submenu":"Noticias",
     "iap":false,
     "tabs":[
       {
-        "title":"Moda",
+        "title":"Vivimos la noticia",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Moda?alt=rss"
+          "http://feeds.feedburner.com/LinaresVivimoslanoticiacl"
         ]
       }
      ]
     },
   {
-    "title":"Rumores",
+    "title":"TV5",
     "drawable":"ic_rumores1",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Rumores",
+        "title":"TV5",
         "provider":"rss",
         "arguments":[
-          "http://kpopreplay.blogspot.com/feeds/posts/default/-/Rumor?alt=rss"
+          "http://feeds.feedburner.com/tv5/noticias"
         ]
       }
      ]
     },
         {
-    "title":"Web completa",
+    "title":"Bio Bio Maule",
     "drawable":"ic_sitioweb",
     "submenu":"",
     "iap":false,
@@ -91,7 +84,7 @@
         "title":"Web completa",
         "provider":"webview",
         "arguments":[
-          "http://kpopreplay.com"
+          "www.biobiochile.cl/lista/tag/region-del-maule"
         ]
       }
     ]

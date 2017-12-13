@@ -187,54 +187,62 @@
       }
     ]
   },
-    {
-    "title":"TV Maule",
+      {
+    "title":"Canal 13",
     "drawable":"ic_tv",
-    "submenu":"TV Regional",
+    "submenu":"TV Nacional",
     "iap":false,
     "tabs":[
       {
-        "title":"TV Maule",
+        "title":"Canal 13",
         "provider":"stream",
         "arguments":[
-          "http://videostreaming.cl:8080/live/tvmaule.mp4/playlist.m3u8"
+          "http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8"
+        ]
+      }
+    ]
+  },
+    {
+    "title":"CHV",
+    "drawable":"ic_tv",
+    "submenu":"TV Nacional",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"CHV",
+        "provider":"stream",
+        "arguments":[
+          "http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8"
         ]
       }
     ]
   },
         {
-    "title":"SBS",
+    "title":"CNN Chile",
     "drawable":"ic_tv",
-    "submenu":"Streams TV",
+    "submenu":"TV Nacional",
     "iap":false,
     "tabs":[
       {
-        "title":"SBS",
+        "title":"CNN Chile",
         "provider":"stream",
         "arguments":[
-          "http://221.157.125.232:1935/live/psike/chunklist_w855159779.m3u8"
+          "http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
         ]
       }
     ]
   },
    {
-    "title":"TvN",
+    "title":"La Red",
     "drawable":"ic_tv",
-    "submenu":"Streams TV",
+    "submenu":"TV Nacional",
     "iap":false,
     "tabs":[
       {
-        "title":"Opción 1",
+        "title":"La red",
         "provider":"stream",
         "arguments":[
-          "http://199.21.149.41:9083/live/CA42-live1/Rf/DM/RfDMODnZ-dV2NYqGXlMsRQ==/live.m3u8"
-        ]
-      },
-      {
-        "title":"Opción 2",
-        "provider":"stream",
-        "arguments":[
-          "http://hpull.kktv8.com/livekktv/724005/playlist.m3u8"
+          "http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
         ]
       }
     ]

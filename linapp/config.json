@@ -84,7 +84,7 @@
         "title":"Web completa",
         "provider":"webview",
         "arguments":[
-          "www.biobiochile.cl/lista/tag/region-del-maule"
+          "http://www.biobiochile.cl/lista/tag/region-del-maule"
         ]
       }
     ]

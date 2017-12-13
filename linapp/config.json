@@ -126,6 +126,21 @@
       }
     ]
   },
+     {
+    "title":"RTL",
+    "drawable":"ic_radio1",
+    "submenu":"Radios",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"RTL",
+        "provider":"radio",
+        "arguments":[
+          "http://cast.radioservicios.cl:8308/linares"
+        ]
+      }
+    ]
+  },
 
       {
     "title":"TV5",

@@ -118,7 +118,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Buena Nueva,
+        "title":"Buena Nueva",
         "provider":"radio",
         "arguments":[
           "http://stream5.eltelon.com:8000/radio-buena-nueva.aac"

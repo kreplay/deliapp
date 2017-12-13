@@ -167,7 +167,7 @@
         "title":"JTBC",
         "provider":"stream",
         "arguments":[
-          "http://198.144.156.92:9083/live/CA42-live1/Uy/sp/UyspnVBZMegi0Y4548c-oQ==/live.m3u8"
+          "http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8"
         ]
       }
     ]

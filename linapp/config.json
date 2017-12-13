@@ -247,6 +247,36 @@
       }
     ]
   },
+     {
+    "title":"Mega",
+    "drawable":"ic_tv",
+    "submenu":"TV Nacional",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Mega",
+        "provider":"stream",
+        "arguments":[
+          "http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8"
+        ]
+      }
+    ]
+  },
+     {
+    "title":"TVN",
+    "drawable":"ic_tv",
+    "submenu":"TV Nacional",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"TVN",
+        "provider":"stream",
+        "arguments":[
+          "http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8"
+        ]
+      }
+    ]
+  },
   {
     "title":"Wallpapers",
     "drawable":"ic_galeria",

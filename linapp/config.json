@@ -97,13 +97,13 @@
     ]
   },
    {
-    "title":"Radio",
+    "title":"Paloma",
     "drawable":"ic_radio1",
-    "submenu":"Radio Area",
+    "submenu":"Radios",
     "iap":false,
     "tabs":[
       {
-        "title":"Radio",
+        "title":"Paloma",
         "provider":"radio",
         "arguments":[
           "http://radio1.us.mediastre.am/paloma.aac"
@@ -111,47 +111,17 @@
       }
     ]
   },
-  {
-    "title":"Chat & Pedidos",
-    "drawable":"ic_chats",
-    "submenu":"Radio Area",
+   {
+    "title":"Buena Nueva",
+    "drawable":"ic_radio1",
+    "submenu":"Radios",
     "iap":false,
     "tabs":[
       {
-        "title":"Chat",
-        "provider":"webview",
+        "title":"Buena Nueva,
+        "provider":"radio",
         "arguments":[
-          "http://kpopreplay.chatango.com"
-        ]
-      }
-    ]
-  },
-    {
-    "title":"Programación",
-    "drawable":"ic_reloj",
-    "submenu":"Radio Area",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Chat",
-        "provider":"webview",
-        "arguments":[
-          "https://tockify.com/deli31/agenda"
-        ]
-      }
-    ]
-  },
-      {
-    "title":"DJs",
-    "drawable":"ic_dj",
-    "submenu":"Radio Area",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Chat",
-        "provider":"webview",
-        "arguments":[
-          "https://tockify.com/deli31/agenda"
+          "http://stream5.eltelon.com:8000/radio-buena-nueva.aac"
         ]
       }
     ]

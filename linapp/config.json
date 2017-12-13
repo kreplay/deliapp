@@ -97,7 +97,7 @@
     ]
   },
    {
-    "title":"Radio Paloma",
+    "title":"Radio",
     "drawable":"ic_radio1",
     "submenu":"Radio Area",
     "iap":false,
@@ -106,7 +106,7 @@
         "title":"Radio",
         "provider":"radio",
         "arguments":[
-          "http://s3.medionline.cl:9964"
+          "http://rosetta.shoutca.st:8325"
         ]
       }
     ]
@@ -158,37 +158,37 @@
   },
 
       {
-    "title":"TV5",
+    "title":"JTBC",
     "drawable":"ic_tv",
     "submenu":"Streams TV",
     "iap":false,
     "tabs":[
       {
-        "title":"TV5",
-        "provider":"streams TV",
-        "arguments":[
-          "http://v3.tustreaming.cl/tv5/live1/playlist.m3u8"
-        ]
-      }
-    ]
-  },
-    {
-    "title":"TVN",
-    "drawable":"ic_tv",
-    "submenu":"Streams TV",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"TVN",
+        "title":"JTBC",
         "provider":"stream",
         "arguments":[
-          "http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8"
+          "http://198.144.156.92:9083/live/CA42-live1/Uy/sp/UyspnVBZMegi0Y4548c-oQ==/live.m3u8"
         ]
       }
     ]
   },
     {
-    "title":"CHV",
+    "title":"MBC",
+    "drawable":"ic_tv",
+    "submenu":"Streams TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"MBC",
+        "provider":"stream",
+        "arguments":[
+          "http://198.144.156.93:9083/live/CA42-live1/PJ/Yr/PJYrrds4bTe69nKCwA_MAQ==/live.m3u8"
+        ]
+      }
+    ]
+  },
+    {
+    "title":"Mnet",
     "drawable":"ic_tv",
     "submenu":"Streams TV",
     "iap":false,
@@ -197,13 +197,13 @@
         "title":"Opción 1",
         "provider":"stream",
         "arguments":[
-          "http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8"
+          "http://199.21.149.41:9083/live/CA42-live1/Vp/Ob/VpObAKeinniCi6LuFRmkLA==/live.m3u8"
         ]
       }
     ]
   },
         {
-    "title":"Canal 13",
+    "title":"SBS",
     "drawable":"ic_tv",
     "submenu":"Streams TV",
     "iap":false,
@@ -212,13 +212,13 @@
         "title":"SBS",
         "provider":"stream",
         "arguments":[
-          "http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8"
+          "http://221.157.125.232:1935/live/psike/chunklist_w855159779.m3u8"
         ]
       }
     ]
   },
    {
-    "title":"CNN",
+    "title":"TvN",
     "drawable":"ic_tv",
     "submenu":"Streams TV",
     "iap":false,
@@ -227,14 +227,14 @@
         "title":"Opción 1",
         "provider":"stream",
         "arguments":[
-          "http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
+          "http://199.21.149.41:9083/live/CA42-live1/Rf/DM/RfDMODnZ-dV2NYqGXlMsRQ==/live.m3u8"
         ]
       },
       {
         "title":"Opción 2",
         "provider":"stream",
         "arguments":[
-          "http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8"
+          "http://hpull.kktv8.com/livekktv/724005/playlist.m3u8"
         ]
       }
     ]

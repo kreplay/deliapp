@@ -59,25 +59,9 @@
       }
      ]
     },
-  
-    {
-    "title":"Paloma",
-    "drawable":"ic_radio1",
-    "submenu":"Radios",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Paloma",
-        "provider":"radio",
-        "arguments":[
-          "http://radio1.us.mediastre.am/paloma.aac"
-        ]
-      }
-    ]
-  },
     {
     "title":"Radio Ancoa",
-    "drawable":"ic_rumores1",
+    "drawable":"ic_news",
     "submenu":"Noticias",
     "iap":false,
     "tabs":[
@@ -92,7 +76,7 @@
     },
   {
       "title":"Vivimos la noticia",
-    "drawable":"ic_vestido",
+    "drawable":"ic_news",
     "submenu":"Noticias",
     "iap":false,
     "tabs":[
@@ -107,7 +91,7 @@
     },
         {
     "title":"Radio Bio Bio [Maule]",
-    "drawable":"ic_sitioweb",
+    "drawable":"ic_news",
     "submenu":"Noticias",
     "iap":false,
     "tabs":[
@@ -123,7 +107,7 @@
  
    {
     "title":"Buena Nueva",
-    "drawable":"ic_radio1",
+    "drawable":"ic_musica",
     "submenu":"Radios",
     "iap":false,
     "tabs":[
@@ -138,7 +122,7 @@
   },
      {
     "title":"RTL",
-    "drawable":"ic_radio1",
+    "drawable":"ic_musica",
     "submenu":"Radios",
     "iap":false,
     "tabs":[
@@ -151,10 +135,26 @@
       }
     ]
   },
+    
+    {
+    "title":"Paloma",
+    "drawable":"ic_musica",
+    "submenu":"Radio",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Paloma",
+        "provider":"radio",
+        "arguments":[
+          "http://radio1.us.mediastre.am/paloma.aac"
+        ]
+      }
+    ]
+  },
 
       {
     "title":"TV5",
-    "drawable":"ic_tv",
+    "drawable":"ic_stream",
     "submenu":"TV Regional",
     "iap":false,
     "tabs":[
@@ -169,7 +169,7 @@
   },
     {
     "title":"TV Centro",
-    "drawable":"ic_tv",
+    "drawable":"ic_stream",
     "submenu":"TV Regional",
     "iap":false,
     "tabs":[
@@ -184,7 +184,7 @@
   },
       {
     "title":"Canal 13",
-    "drawable":"ic_tv",
+    "drawable":"ic_stream",
     "submenu":"TV Nacional",
     "iap":false,
     "tabs":[
@@ -199,7 +199,7 @@
   },
     {
     "title":"CHV",
-    "drawable":"ic_tv",
+    "drawable":"ic_stream",
     "submenu":"TV Nacional",
     "iap":false,
     "tabs":[
@@ -214,7 +214,7 @@
   },
         {
     "title":"CNN Chile",
-    "drawable":"ic_tv",
+    "drawable":"ic_stream",
     "submenu":"TV Nacional",
     "iap":false,
     "tabs":[
@@ -229,7 +229,7 @@
   },
    {
     "title":"La Red",
-    "drawable":"ic_tv",
+    "drawable":"ic_stream",
     "submenu":"TV Nacional",
     "iap":false,
     "tabs":[
@@ -244,7 +244,7 @@
   },
      {
     "title":"Mega",
-    "drawable":"ic_tv",
+    "drawable":"ic_stream",
     "submenu":"TV Nacional",
     "iap":false,
     "tabs":[
@@ -259,7 +259,7 @@
   },
      {
     "title":"TVN",
-    "drawable":"ic_tv",
+    "drawable":"ic_stream",
     "submenu":"TV Nacional",
     "iap":false,
     "tabs":[
@@ -274,7 +274,7 @@
   },
        {
     "title":"TVN Kids",
-    "drawable":"ic_tv",
+    "drawable":"ic_stream",
     "submenu":"TV Nacional",
     "iap":false,
     "tabs":[

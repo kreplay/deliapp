@@ -1,15 +1,15 @@
 [
   {
     "title":"",
-    "provider":"youtube",
-    "image": "http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8",
+    "provider":"stream",
+    "image": "https://i.imgur.com/Wau5OF4.jpg",
     "arguments":[
-      "PLrEnWoR732-DZV1Jc8bUpVTF_HTPbywpE"
+      "http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8"
     ]
   },
   {
     "title":"",
-    "provider":"youtube",
+    "provider":"stream",
     "image":"https://i.imgur.com/6gCmBps.jpg",
     "arguments":[
       "http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8"

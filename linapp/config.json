@@ -379,12 +379,12 @@
   },
     {
     "title":"TV Online",
-    "drawable":"ic_grupos",
+    "drawable":"ic_stream",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Grupo",
+        "title":"Nacional",
         "provider":"overview",
         "arguments":[
           "http://kreplay.github.io/deliapp/linapp/canacional.json"

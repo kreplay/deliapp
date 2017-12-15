@@ -166,137 +166,24 @@
       }
     ]
   },
-      {
-    "title":"TV5",
-    "drawable":"ic_stream",
-    "submenu":"TV Regional",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"TV5",
-        "provider":"stream",
-        "arguments":[
-          "http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8"
-        ]
-      }
-    ]
-  },
     {
-    "title":"TV Centro",
-    "drawable":"ic_stream",
-    "submenu":"TV Regional",
+    "title":"TV Online",
+    "drawable":"",
+    "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"TV Centro",
-        "provider":"stream",
+        "title":"aaa",
+        "provider":"overview",
         "arguments":[
-          "http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8"
+          "http://kreplay.github.io/deliapp/linapp/canacional.json"
         ]
-      }
-    ]
-  },
+      },
       {
-    "title":"Canal 13",
-    "drawable":"ic_stream",
-    "submenu":"TV Nacional",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Canal 13",
-        "provider":"stream",
+        "title":"bbb",
+        "provider":"overview",
         "arguments":[
-          "http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8"
-        ]
-      }
-    ]
-  },
-    {
-    "title":"CHV",
-    "drawable":"ic_stream",
-    "submenu":"TV Nacional",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"CHV",
-        "provider":"stream",
-        "arguments":[
-          "http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8"
-        ]
-      }
-    ]
-  },
-        {
-    "title":"CNN Chile",
-    "drawable":"ic_stream",
-    "submenu":"TV Nacional",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"CNN Chile",
-        "provider":"stream",
-        "arguments":[
-          "http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
-        ]
-      }
-    ]
-  },
-   {
-    "title":"La Red",
-    "drawable":"ic_stream",
-    "submenu":"TV Nacional",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"La red",
-        "provider":"stream",
-        "arguments":[
-          "http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
-        ]
-      }
-    ]
-  },
-     {
-    "title":"Mega",
-    "drawable":"ic_stream",
-    "submenu":"TV Nacional",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Mega",
-        "provider":"stream",
-        "arguments":[
-          "http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8"
-        ]
-      }
-    ]
-  },
-     {
-    "title":"TVN",
-    "drawable":"ic_stream",
-    "submenu":"TV Nacional",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"TVN",
-        "provider":"stream",
-        "arguments":[
-          "http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8"
-        ]
-      }
-    ]
-  },
-       {
-    "title":"TVN Kids",
-    "drawable":"ic_stream",
-    "submenu":"TV Nacional",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"TVN Kids",
-        "provider":"stream",
-        "arguments":[
-          "http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8"
+          "http://kreplay.github.io/deliapp/linapp/caregional.json"
         ]
       }
     ]
@@ -373,28 +260,6 @@
         "provider":"custom",
         "arguments":[
           "com.sherdle.universal.SettingsFragment", "fragment"
-        ]
-      }
-    ]
-  },
-    {
-    "title":"TV Online",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"aaa",
-        "provider":"overview",
-        "arguments":[
-          "http://kreplay.github.io/deliapp/linapp/canacional.json"
-        ]
-      },
-      {
-        "title":"bbb",
-        "provider":"overview",
-        "arguments":[
-          "http://kreplay.github.io/deliapp/linapp/caregional.json"
         ]
       }
     ]

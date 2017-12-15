@@ -121,7 +121,7 @@
   },
         {
     "title":"Radio Online",
-    "drawable":"ic_musica",
+    "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -136,7 +136,7 @@
   },
     {
     "title":"TV Online",
-    "drawable":"ic_stream",
+    "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[

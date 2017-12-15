@@ -38,6 +38,14 @@
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8",
     ]
+  },
+    {
+    "title":"",
+    "provider":"stream",
+    "image":"https://imgur.com/UVFiDRp.jpg",
+    "arguments":[
+      "http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8",
+    ]
   }
 
 ]

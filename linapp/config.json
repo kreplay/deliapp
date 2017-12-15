@@ -394,7 +394,7 @@
         "title":"TV Regional",
         "provider":"overview",
         "arguments":[
-          ""
+          "http://kreplay.github.io/app/artista.json"
         ]
       }
     ]

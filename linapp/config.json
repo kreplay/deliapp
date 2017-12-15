@@ -121,7 +121,7 @@
   },
         {
     "title":"Radio Online",
-    "drawable":"",
+    "drawable":"ic_musica",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -136,7 +136,7 @@
   },
     {
     "title":"TV Online",
-    "drawable":"",
+    "drawable":"ic_stream",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -148,7 +148,7 @@
         ]
       },
       {
-        "title":"bbb",
+        "title":"Regional",
         "provider":"overview",
         "arguments":[
           "http://kreplay.github.io/deliapp/linapp/caregional.json"
@@ -156,67 +156,6 @@
       }
     ]
   },
-  {
-    "title":"Wallpapers",
-    "drawable":"ic_galeria",
-    "submenu":"Extras",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Wallpapers",
-        "provider":"tumblr",
-        "arguments":[
-          "kwallpapers"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Twitter",
-    "drawable":"ic_twitter",
-    "submenu":"Redes Sociales",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Twitter",
-        "provider":"twitter",
-        "arguments":[
-          "kpop_replay"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Facebook",
-    "drawable":"ic_fb",
-    "submenu":"Redes Sociales",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Facebook",
-        "provider":"facebook",
-        "arguments":[
-          "KpopReplayRadio"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Pinterest",
-    "drawable":"ic_pinterest",
-    "submenu":"Redes Sociales",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Pinterest",
-        "provider":"pinterest",
-        "arguments":[
-          "kpopreplay"
-        ]
-      }
-    ]
-  },
-
   {
     "title":"Configuraciones",
     "drawable":"ic_configuracion",

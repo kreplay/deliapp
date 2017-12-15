@@ -1,42 +1,42 @@
 [
   {
-    "title":"Learn Something",
-    "provider":"youtube",
-    "image": "https://unsplash.it/720/480?image=1073",
+    "title":"",
+    "provider":"stream",
+    "image": "https://imgur.com/lM0jLl4.jpg",
     "arguments":[
-      "PLrEnWoR732-DZV1Jc8bUpVTF_HTPbywpE", "playlist"
+      "http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8"
     ]
   },
   {
-    "title":"Inspiring Stories",
-    "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=998",
+    "title":"",
+    "provider":"stream",
+    "image":"https://imgur.com/IueS9II.jpg",
     "arguments":[
-      "PLrEnWoR732-AtjHiRPQD7-Xaqa3SaXo-4", "playlist"
+      "http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8"
     ]
   },
   {
-    "title":"Look Good, Feel Good",
-    "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=856",
+    "title":"",
+    "provider":"stream",
+    "image":"https://imgur.com/aF6ebLc.jpg",
     "arguments":[
-      "PLrEnWoR732-ByK1fe0UAOPbvy5TF5SALg", "playlist"
+      "http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8"
     ]
   },
   {
-    "title":"Game Overload",
-    "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=96",
+    "title":"",
+    "provider":"stream",
+    "image":"https://imgur.com/nLresqp.jpg",
     "arguments":[
-      "PLrEnWoR732-CFfUX4TPybGxiO7q_5OS8D", "playlist"
+      "http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
     ]
   },
   {
-    "title":"Hot Trailers",
-    "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=967",
+    "title":"",
+    "provider":"stream",
+    "image":"https://imgur.com/V8NxK1J.jpg",
     "arguments":[
-      "PLrEnWoR732-CvU2EIng1mKhlXJHvaiAVM", "playlist"
+      "http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8",
     ]
   }
 

@@ -1,42 +1,18 @@
 [
   {
-    "title":"Learn Something",
+    "title":"",
     "provider":"youtube",
-    "image": "https://unsplash.it/720/480?image=1073",
+    "image": "http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8",
     "arguments":[
-      "PLrEnWoR732-DZV1Jc8bUpVTF_HTPbywpE", "playlist"
+      "PLrEnWoR732-DZV1Jc8bUpVTF_HTPbywpE"
     ]
   },
   {
-    "title":"Inspiring Stories",
+    "title":"",
     "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=998",
+    "image":"https://i.imgur.com/6gCmBps.jpg",
     "arguments":[
-      "PLrEnWoR732-AtjHiRPQD7-Xaqa3SaXo-4", "playlist"
-    ]
-  },
-  {
-    "title":"Look Good, Feel Good",
-    "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=856",
-    "arguments":[
-      "PLrEnWoR732-ByK1fe0UAOPbvy5TF5SALg", "playlist"
-    ]
-  },
-  {
-    "title":"Game Overload",
-    "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=96",
-    "arguments":[
-      "PLrEnWoR732-CFfUX4TPybGxiO7q_5OS8D", "playlist"
-    ]
-  },
-  {
-    "title":"Hot Trailers",
-    "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=967",
-    "arguments":[
-      "PLrEnWoR732-CvU2EIng1mKhlXJHvaiAVM", "playlist"
+      "http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8"
     ]
   }
 

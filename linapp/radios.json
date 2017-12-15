@@ -1,34 +1,34 @@
 [
   {
-    "title":"Learn Something",
-    "provider":"youtube",
-    "image": "https://unsplash.it/720/480?image=1073",
+    "title":"Radio Buena Nueva",
+    "provider":"radio",
+    "image": "https://i.imgur.com/JGwE5IP.jpg",
     "arguments":[
-      "PLrEnWoR732-DZV1Jc8bUpVTF_HTPbywpE", "playlist"
+      "PLrEnWoR732-DZV1Jc8bUpVTF_HTPbywpE"
     ]
   },
   {
-    "title":"Inspiring Stories",
-    "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=998",
+    "title":"Radio Tropical Latina",
+    "provider":"radio",
+    "image":"https://i.imgur.com/GdGBO1U.jpg",
     "arguments":[
-      "PLrEnWoR732-AtjHiRPQD7-Xaqa3SaXo-4", "playlist"
+      "PLrEnWoR732-AtjHiRPQD7-Xaqa3SaXo-4"
     ]
   },
   {
-    "title":"Look Good, Feel Good",
-    "provider":"youtube",
+    "title":"Ambrosio",
+    "provider":"radio",
     "image":"https://unsplash.it/720/480?image=856",
     "arguments":[
-      "PLrEnWoR732-ByK1fe0UAOPbvy5TF5SALg", "playlist"
+      "http://sc.digitalproserver.com:9420/;listen.mp3"
     ]
   },
   {
-    "title":"Game Overload",
-    "provider":"youtube",
+    "title":"Maria",
+    "provider":"radio",
     "image":"https://unsplash.it/720/480?image=96",
     "arguments":[
-      "PLrEnWoR732-CFfUX4TPybGxiO7q_5OS8D", "playlist"
+      "http://stream5.eltelon.com/maria-fm.aac"
     ]
   },
   {
@@ -36,7 +36,7 @@
     "provider":"youtube",
     "image":"https://unsplash.it/720/480?image=967",
     "arguments":[
-      "PLrEnWoR732-CvU2EIng1mKhlXJHvaiAVM", "playlist"
+      "PLrEnWoR732-CvU2EIng1mKhlXJHvaiAVM"
     ]
   }
 

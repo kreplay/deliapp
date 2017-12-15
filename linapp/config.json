@@ -1,4 +1,19 @@
 [
+    {
+    "title":"Recientes",
+    "drawable":"ic_home",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Últimas emergencias",
+        "provider":"faceboook",
+        "arguments":[
+          "175538596366064"
+        ]
+      }
+    ]
+  },
   {
     "title":"Recientes",
     "drawable":"ic_news",

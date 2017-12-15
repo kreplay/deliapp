@@ -166,7 +166,21 @@
       }
     ]
   },
-
+      {
+    "title":"TV Online",
+    "drawable":"ic_stream",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"TV Online",
+        "provider":"overview",
+        "arguments":[
+          "http://kreplay.github.io/deliapp/linapp/canacional.json"
+        ]
+      }
+    ]
+  },
       {
     "title":"TV5",
     "drawable":"ic_stream",

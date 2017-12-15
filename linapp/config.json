@@ -166,6 +166,21 @@
       }
     ]
   },
+        {
+    "title":"Radio Online",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"bbb",
+        "provider":"overview",
+        "arguments":[
+          "http://kreplay.github.io/deliapp/linapp/radios.json"
+        ]
+      }
+    ]
+  },
     {
     "title":"TV Online",
     "drawable":"",

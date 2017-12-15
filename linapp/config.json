@@ -394,7 +394,7 @@
         "title":"TV Regional",
         "provider":"overview",
         "arguments":[
-          "https://kreplay.github.io/deliapp/linapp/caregional.json"
+          ""
         ]
       }
     ]

@@ -119,53 +119,6 @@
       }
     ]
   },
- 
-   {
-    "title":"Buena Nueva",
-    "drawable":"ic_musica",
-    "submenu":"Radios",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Buena Nueva",
-        "provider":"radio",
-        "arguments":[
-          "http://stream5.eltelon.com:8000/radio-buena-nueva.aac"
-        ]
-      }
-    ]
-  },
-     {
-    "title":"RTL",
-    "drawable":"ic_musica",
-    "submenu":"Radios",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"RTL",
-        "provider":"radio",
-        "arguments":[
-          "http://cast.radioservicios.cl:8308/linares"
-        ]
-      }
-    ]
-  },
-    
-    {
-    "title":"Paloma",
-    "drawable":"ic_musica",
-    "submenu":"Radio",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Paloma",
-        "provider":"radio",
-        "arguments":[
-          "http://radio1.us.mediastre.am/paloma.aac"
-        ]
-      }
-    ]
-  },
         {
     "title":"Radio Online",
     "drawable":"",
@@ -173,7 +126,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"bbb",
+        "title":"Radio Online",
         "provider":"overview",
         "arguments":[
           "http://kreplay.github.io/deliapp/linapp/radios.json"
@@ -188,7 +141,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"aaa",
+        "title":"Nacional",
         "provider":"overview",
         "arguments":[
           "http://kreplay.github.io/deliapp/linapp/canacional.json"

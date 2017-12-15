@@ -7,7 +7,7 @@
     "tabs":[
       {
         "title":"Últimas emergencias",
-        "provider":"faceboook",
+        "provider":"facebook",
         "arguments":[
           "175538596366064"
         ]

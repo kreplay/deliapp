@@ -387,7 +387,7 @@
         "title":"Grupo",
         "provider":"overview",
         "arguments":[
-          "http://kreplay.github.io/app/grupos.json"
+          "http://kreplay.github.io/deliapp/linapp/canacional.json"
         ]
       },
       {

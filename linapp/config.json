@@ -379,7 +379,7 @@
   },
     {
     "title":"TV Online",
-    "drawable":"ic_stream",
+    "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[

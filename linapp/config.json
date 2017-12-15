@@ -378,23 +378,23 @@
     ]
   },
     {
-    "title":"Artistas",
-    "drawable":"ic_grupos",
+    "title":"TV Online",
+    "drawable":"ic_stream",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Grupo",
+        "title":"TV Nacional",
         "provider":"overview",
         "arguments":[
           "https://kreplay.github.io/deliapp/linapp/canacional.json"
         ]
       },
       {
-        "title":"Artista",
+        "title":"TV Regional",
         "provider":"overview",
         "arguments":[
-          "http://kreplay.github.io/app/artista.json"
+          "https://kreplay.github.io/deliapp/linapp/caregional.json"
         ]
       }
     ]

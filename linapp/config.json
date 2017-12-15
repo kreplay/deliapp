@@ -378,16 +378,24 @@
     ]
   },
           {
-    "title":"TV Online",
-    "drawable":"ic_stream",
+    {
+    "title":"Artistas",
+    "drawable":"ic_grupos",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"TV Online",
+        "title":"Grupo",
         "provider":"overview",
         "arguments":[
-          "http://kreplay.github.io/deliapp/linapp/canacional.json"
+          "http://kreplay.github.io/app/grupos.json"
+        ]
+      },
+      {
+        "title":"Artista",
+        "provider":"overview",
+        "arguments":[
+          "http://kreplay.github.io/app/artista.json"
         ]
       }
     ]

@@ -387,7 +387,7 @@
         "title":"TV Nacional",
         "provider":"overview",
         "arguments":[
-          "https://kreplay.github.io/deliapp/linapp/canacional.json"
+          "http://kreplay.github.io/app/artista.json"
         ]
       },
       {

@@ -384,14 +384,14 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Nacional",
+        "title":"aaa",
         "provider":"overview",
         "arguments":[
           "http://kreplay.github.io/deliapp/linapp/canacional.json"
         ]
       },
       {
-        "title":"Artista",
+        "title":"bbb",
         "provider":"overview",
         "arguments":[
           "http://kreplay.github.io/app/artista.json"

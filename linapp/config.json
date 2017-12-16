@@ -136,7 +136,7 @@
   },
     {
     "title":"TV Online",
-    "drawable":"ic_video",
+    "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[

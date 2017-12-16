@@ -121,7 +121,7 @@
   },
         {
     "title":"Radio Online",
-    "drawable":"ic_musica",
+    "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[

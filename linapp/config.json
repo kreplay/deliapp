@@ -158,7 +158,7 @@
   },
   {
     "title":"Configuraciones",
-    "drawable":"ic_configuraciones",
+    "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[

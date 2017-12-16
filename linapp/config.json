@@ -136,7 +136,7 @@
   },
     {
     "title":"TV Online",
-    "drawable":"",
+    "drawable":"ic_video",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -148,7 +148,7 @@
         ]
       },
       {
-        "title":"bbb",
+        "title":"Regional",
         "provider":"overview",
         "arguments":[
           "http://kreplay.github.io/deliapp/linapp/caregional.json"

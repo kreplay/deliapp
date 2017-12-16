@@ -121,7 +121,7 @@
   },
         {
     "title":"Radio Online",
-    "drawable":"",
+    "drawable":"ic_musica",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -158,7 +158,7 @@
   },
   {
     "title":"Configuraciones",
-    "drawable":"ic_configuracion",
+    "drawable":"ic_configuraciones",
     "submenu":"",
     "iap":false,
     "tabs":[

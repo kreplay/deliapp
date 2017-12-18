@@ -7,9 +7,9 @@
     "tabs":[
       {
         "title":"Últimas emergencias",
-        "provider":"webview",
+        "provider":"facebook",
         "arguments":[
-          "https://www.facebook.com/KpopReplayRadio/"
+          "175538596366064"
         ]
       }
     ]

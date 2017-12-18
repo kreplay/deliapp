@@ -1,6 +1,6 @@
 [
     {
-    "title":"Ambrosio",
+    "title":"",
     "provider":"radio",
     "image":"https://i.imgur.com/ZcM4Kxr.jpg",
     "arguments":[
@@ -8,7 +8,7 @@
     ]
   },
     {
-    "title":"Ancoa",
+    "title":"",
     "provider":"radio",
     "image":"https://i.imgur.com/FWEZSW5.jpg",
     "arguments":[
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "title":"rbm",
+    "title":"",
     "provider":"radio",
     "image": "https://i.imgur.com/MGCS7h4.jpg",
     "arguments":[
@@ -24,7 +24,7 @@
     ]
   },
   {
-    "title":"rtl",
+    "title":"",
     "provider":"radio",
     "image":"https://i.imgur.com/GdGBO1U.jpg",
     "arguments":[
@@ -33,7 +33,7 @@
   },
 
   {
-    "title":"Maria",
+    "title":"",
     "provider":"radio",
     "image":"https://i.imgur.com/OWxAMUJ.jpg",
     "arguments":[

@@ -1,0 +1,43 @@
+[
+  {
+    "title":"Radio Buena Nueva",
+    "provider":"rss",
+    "image": "https://i.imgur.com/JGwE5IP.jpg",
+    "arguments":[
+      "http://feeds.feedburner.com/RadioBuenaNueva"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"rss",
+    "image":"https://i.imgur.com/OUZku4j.jpg",
+    "arguments":[
+      "http://feeds.feedburner.com/DiarioElHeraldoLinaresMauleChile"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"rss",
+    "image":"https://i.imgur.com/FWEZSW5.jpg",
+    "arguments":[
+      "http://feeds.feedburner.com/RadioAncoa"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"rss",
+    "image":"https://i.imgur.com/DXp2zQF.jpg",
+    "arguments":[
+      "http://feeds.feedburner.com/LinaresVivimoslanoticiacl"
+    ]
+  },
+  {
+    "title":"",
+    "provider":"webview",
+    "image":"https://i.imgur.com/zZBRl9h.jpg",
+    "arguments":[
+      "http://feeds.feedburner.com/LinaresEnLnea"
+    ]
+  }
+
+]

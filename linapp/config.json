@@ -1,7 +1,7 @@
 [
     {
-    "title":"Recientes",
-    "drawable":"ic_reloj",
+    "title":"Inicio",
+    "drawable":"ic_inicio",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -15,9 +15,9 @@
     ]
   },
   {
-    "title":"Recientes",
-    "drawable":"ic_news",
-    "submenu":"Noticias",
+    "title":"Noticias",
+    "drawable":"ic_noticias",
+    "submenu":"",
     "iap":false,
     "tabs":[
       {
@@ -26,102 +26,20 @@
         "arguments":[
           "http://www.rssmix.com/u/8266775/rss.xml"
         ]
-      }
+      },
+              {
+        "title":"Todos los medios",
+        "provider":"rss",
+        "arguments":[
+          "http://www.rssmix.com/u/8266775/rss.xml"
+        ]
+      } 
     ]
   },
-            {
-    "title":"Buena Nueva",
-    "drawable":"ic_cam",
-    "submenu":"Noticias",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Buena Nueva",
-        "provider":"rss",
-        "arguments":[
-          "http://feeds.feedburner.com/RadioBuenaNueva"
-        ]
-      }
-     ]
-    },
-    {
-    "title":"El Heraldo",
-    "drawable":"ic_notas",
-    "submenu":"Noticias",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"El Heraldo",
-        "provider":"rss",
-        "arguments":[
-          "http://feeds.feedburner.com/DiarioElHeraldoLinaresMauleChile"
-        ]
-      }
-     ]
-    },
-      {
-    "title":"Linares en Linea",
-    "drawable":"ic_notas",
-    "submenu":"Noticias",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Linares en Linea",
-        "provider":"rss",
-        "arguments":[
-          "http://feeds.feedburner.com/LinaresEnLnea"
-        ]
-      }
-     ]
-    },
-    {
-    "title":"Radio Ancoa",
-    "drawable":"ic_news",
-    "submenu":"Noticias",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Radio Ancoa",
-        "provider":"rss",
-        "arguments":[
-          "http://feeds.feedburner.com/RadioAncoa"
-        ]
-      }
-     ]
-    },
-  {
-      "title":"Vivimos la noticia",
-    "drawable":"ic_news",
-    "submenu":"Noticias",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Vivimos la noticia",
-        "provider":"rss",
-        "arguments":[
-          "http://feeds.feedburner.com/LinaresVivimoslanoticiacl"
-        ]
-      }
-     ]
-    },
-        {
-    "title":"Radio Bio Bio [Maule]",
-    "drawable":"ic_news",
-    "submenu":"Noticias",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Web completa",
-        "provider":"webview",
-        "arguments":[
-          "http://www.biobiochile.cl/lista/tag/region-del-maule"
-        ]
-      }
-    ]
-  },
+      
         {
     "title":"Radio Online",
-    "drawable":"",
+    "drawable":"ic_musica",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -136,7 +54,7 @@
   },
     {
     "title":"TV Online",
-    "drawable":"",
+    "drawable":"ic_tv",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -158,7 +76,7 @@
   },
   {
     "title":"Configuraciones",
-    "drawable":"ic_mail",
+    "drawable":"ic_settings",
     "submenu":"",
     "iap":false,
     "tabs":[

@@ -1,43 +1,45 @@
 [
-  {
-    "title":"Radio Buena Nueva",
-    "provider":"radio",
-    "image": "https://i.imgur.com/JGwE5IP.jpg",
-    "arguments":[
-      "PLrEnWoR732-DZV1Jc8bUpVTF_HTPbywpE"
-    ]
-  },
-  {
-    "title":"Radio Tropical Latina",
-    "provider":"radio",
-    "image":"https://i.imgur.com/GdGBO1U.jpg",
-    "arguments":[
-      "PLrEnWoR732-AtjHiRPQD7-Xaqa3SaXo-4"
-    ]
-  },
-  {
+    {
     "title":"Ambrosio",
     "provider":"radio",
-    "image":"https://unsplash.it/720/480?image=856",
+    "image":"https://i.imgur.com/ZcM4Kxr.jpg",
     "arguments":[
       "http://sc.digitalproserver.com:9420/;listen.mp3"
     ]
   },
-  {
-    "title":"Maria",
+    {
+    "title":"Ancoa",
     "provider":"radio",
-    "image":"https://unsplash.it/720/480?image=96",
+    "image":"https://i.imgur.com/FWEZSW5.jpg",
     "arguments":[
-      "http://stream5.eltelon.com/maria-fm.aac"
+      "http://s6.jcwebnew.com:7560/stream"
     ]
   },
   {
-    "title":"Hot Trailers",
-    "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=967",
+    "title":"rbm",
+    "provider":"radio",
+    "image": "https://i.imgur.com/MGCS7h4.jpg",
     "arguments":[
-      "PLrEnWoR732-CvU2EIng1mKhlXJHvaiAVM"
+      "http://stream5.eltelon.com:8000/radio-buena-nueva.aac"
+    ]
+  },
+  {
+    "title":"rtl",
+    "provider":"radio",
+    "image":"https://i.imgur.com/GdGBO1U.jpg",
+    "arguments":[
+      "http://cast.radioservicios.cl:8308/linares"
+    ]
+  },
+
+  {
+    "title":"Maria",
+    "provider":"radio",
+    "image":"https://i.imgur.com/OWxAMUJ.jpg",
+    "arguments":[
+      "http://stream5.eltelon.com/maria-fm.aac"
     ]
   }
+
 
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "title":"Radio Buena Nueva",
+    "title":"",
     "provider":"rss",
-    "image": "https://i.imgur.com/JGwE5IP.jpg",
+    "image": "https://i.imgur.com/MGCS7h4.jpg",
     "arguments":[
       "http://feeds.feedburner.com/RadioBuenaNueva"
     ]

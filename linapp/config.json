@@ -29,9 +29,9 @@
       },
               {
         "title":"Todos los medios",
-        "provider":"rss",
+        "provider":"overview",
         "arguments":[
-          "http://www.rssmix.com/u/8266775/rss.xml"
+          "http://kreplay.github.io/deliapp/linapp/radios.json"
         ]
       } 
     ]

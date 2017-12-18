@@ -1,7 +1,7 @@
 [
     {
     "title":"Recientes",
-    "drawable":"ic_home",
+    "drawable":"ic_reloj",
     "submenu":"",
     "iap":false,
     "tabs":[

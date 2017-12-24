@@ -54,6 +54,13 @@
     "arguments":[
       "http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8"
     ]
+  },      {
+    "title":"",
+    "provider":"stream",
+    "image":"https://i.imgur.com/LWNlFmj.jpg",
+    "arguments":[
+      "http://superstreams.tv:8080/live/geo/geo/19188.m3u8"
+    ]
   }
 
 ]

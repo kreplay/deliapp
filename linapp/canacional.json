@@ -59,7 +59,7 @@
     "provider":"stream",
     "image":"https://i.imgur.com/LWNlFmj.jpg",
     "arguments":[
-      "http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/index.m3u8"
+      "http://se-to1-9.se.live2.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(03)/index.m3u8"
     ]
   }
 

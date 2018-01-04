@@ -56,7 +56,7 @@
     ]
   },      {
     "title":"",
-    "provider":"web",
+    "provider":"webview",
     "image":"https://i.imgur.com/LWNlFmj.jpg",
     "arguments":[
       "http://test.inspius.com/yovideo/index.php"

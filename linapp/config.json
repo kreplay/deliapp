@@ -1,42 +1,41 @@
 [
-    {
-    "title":"Inicio",
-    "drawable":"ic_inicio",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Últimas emergencias",
-        "provider":"facebook",
-        "arguments":[
-          "175538596366064"
-        ]
-      }
-    ]
-  },
   {
-    "title":"Noticias",
+    "title":"Inicio",
     "drawable":"ic_noticias",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Recientes",
+        "title":"Últimas Noticias",
         "provider":"rss",
         "arguments":[
           "http://www.rssmix.com/u/8266775/rss.xml"
         ]
       },
               {
-        "title":"Todos los medios",
-        "provider":"overview",
+        "title":"Últimas Emergencias",
+        "provider":"facebook",
         "arguments":[
-          "http://kreplay.github.io/deliapp/linapp/medios.json"
+          "175538596366064"
         ]
       } 
     ]
   },
-      
+       {
+    "title":"Más Noticias",
+    "drawable":"ic_inicio",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Últimas emergencias",
+        "provider":"overview",
+        "arguments":[
+          "http://kreplay.github.io/deliapp/linapp/medios.json"
+        ]
+      }
+    ]
+  },   
         {
     "title":"Radio Online",
     "drawable":"ic_musica",

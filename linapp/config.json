@@ -14,9 +14,9 @@
       },
               {
         "title":"Últimas Emergencias",
-        "provider":"facebook",
+        "provider":"rss",
         "arguments":[
-          "175538596366064"
+          "https://zapier.com/engine/rss/2772169/bomberos/"
         ]
       } 
     ]

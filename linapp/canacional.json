@@ -28,7 +28,7 @@
     "provider":"stream",
     "image":"https://i.imgur.com/8okyBwU.jpg",
     "arguments":[
-      "http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
+      "https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
     ]
   },
   {

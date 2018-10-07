@@ -44,7 +44,7 @@
     "provider":"stream",
     "image":"https://imgur.com/UVFiDRp.jpg",
     "arguments":[
-      "http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8"
+      "http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8"
     ]
   },
       {
@@ -52,7 +52,7 @@
     "provider":"stream",
     "image":"https://i.imgur.com/LWNlFmj.jpg",
     "arguments":[
-      "https://gist.githubusercontent.com/relaie22/65ec23f474e302569dadea2d4429efe0/raw/simpsons.m3u"
+      "http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8"
     ]
   },      {
     "title":"",

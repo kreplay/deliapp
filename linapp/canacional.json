@@ -12,7 +12,7 @@
     "provider":"stream",
     "image":"https://imgur.com/IueS9II.jpg",
     "arguments":[
-      "http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8"
+      "http://live.hls.http.chv.ztreaming.com/desktop/chvhi.m3u8"
     ]
   },
   {

@@ -4,7 +4,7 @@
     "provider":"stream",
     "image": "https://imgur.com/lM0jLl4.jpg",
     "arguments":[
-      "http://c13-live-1.cdn.nedmedia.io/index.m3u8"
+      "http://t13-movil-live.cdn.nedmedia.io/index.m3u88"
     ]
   },
   {

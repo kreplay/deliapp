@@ -20,7 +20,7 @@
     "provider":"stream",
     "image":"https://imgur.com/aF6ebLc.jpg",
     "arguments":[
-      "http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u"
+      "http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8"
     ]
   },
   {

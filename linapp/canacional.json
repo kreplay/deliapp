@@ -52,7 +52,7 @@
     "provider":"stream",
     "image":"https://i.imgur.com/LWNlFmj.jpg",
     "arguments":[
-      "http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8"
+      "https://gist.githubusercontent.com/relaie22/65ec23f474e302569dadea2d4429efe0/raw/simpsons.m3u"
     ]
   },      {
     "title":"",

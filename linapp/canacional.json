@@ -56,7 +56,7 @@
     ]
   },      {
     "title":"",
-    "provider":"webview",
+    "provider":"stream",
     "image":"https://i.imgur.com/LWNlFmj.jpg",
     "arguments":[
       "http://locomotiontv.com/envivo/loco_channel/stream.m3u8"

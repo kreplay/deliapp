@@ -33,10 +33,10 @@
   },
   {
     "title":"",
-    "provider":"rss",
+    "provider":"wordpress",
     "image":"https://i.imgur.com/zZBRl9h.jpg",
     "arguments":[
-      "http://feeds.feedburner.com/LinaresEnLnea"
+      "https://www.linaresenlinea.cl/wp-json/wp/v2"
     ]
   }
 

@@ -43,7 +43,7 @@
     "provider":"rss",
     "image":"",
     "arguments":[
-      "https://www.cooperativa.cl/noticias/site/tax/port/all/rss_5_2_8_1.xml"
+      "http://www.cooperativa.cl/noticias/site/tax/port/all/rss_5_2_8_1.xml"
     ]
   }
 

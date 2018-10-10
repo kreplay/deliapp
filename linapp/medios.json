@@ -33,7 +33,7 @@
   },
   {
     "title":"",
-    "provider":"webview",
+    "provider":"rss",
     "image":"https://i.imgur.com/zZBRl9h.jpg",
     "arguments":[
       "http://feeds.feedburner.com/LinaresEnLnea"

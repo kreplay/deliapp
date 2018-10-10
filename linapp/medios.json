@@ -38,13 +38,6 @@
     "arguments":[
       "http://feeds.feedburner.com/LinaresEnLnea"
     ]
-  },  {
-    "title":"Cooperativa",
-    "provider":"rss",
-    "image":"",
-    "arguments":[
-      "http://www.cooperativa.cl/noticias/site/tax/port/all/rss_5_2_8_1.xml"
-    ]
   }
 
 ]
